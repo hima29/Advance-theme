@@ -7,5 +7,5 @@
 			'footer'	=>	__('Footer Menu')
 		));
 	}
-add_action('after_setup_theme','adv_theme_support');
+add_action('after_setup_theme','adv_theme_support');//this is my demo comment
 
